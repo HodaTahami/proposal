@@ -26,9 +26,10 @@ The limited nature of our shared resources drives the need for assistance to eff
 
 
 ## Data:
-Water data
-http://www.oregon.gov/owrd/Pages/maps/index.aspx
 
+1. http://www.oregon.gov/owrd/Pages/maps/index.aspx
+2. https://www.nrcs.usda.gov/wps/portal/nrcs/main/or/technical/dma/gis/
+3. https://water.usgs.gov/maps.html
 
 ## Interface Design:
 #### project name:
